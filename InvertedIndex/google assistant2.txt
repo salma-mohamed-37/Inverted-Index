@@ -1,0 +1,10 @@
+Google Assistant, in the nature and manner of Google Now, can search the Internet, schedule events and alarms, adjust hardware settings on the user's device, and show
+information from the user's Google account. Unlike Google Now, however, the Assistant can engage in a two-way conversation, using Google's natural language processing 
+algorithm. Search results are presented in a card format that users can tap to open the page.
+In February 2017, Google announced that users of Google Home would be able to shop entirely by voice for products through its Google Express shopping service, with 
+products available from Whole Foods Market, Costco, Walgreens, PetSmart, and Bed Bath and Beyond at launch, and other retailers added in the following months as new 
+partnerships were formed.
+Google Assistant can maintain a shopping list; this was previously done within the notetaking service Google Keep, but the feature was moved to Google Express and the 
+Google Home app in April 2017, resulting in a severe loss of functionality.
+In May 2017, Google announced that the Assistant would support a keyboard for typed input and visual responses, support identifying objects and gather visual 
+information through the device's camera, and support purchasing products and sending money.

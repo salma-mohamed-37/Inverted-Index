@@ -1,0 +1,13 @@
+Google Assistant is a virtual assistant software application developed by Google that is primarily available on mobile and home automation devices. 
+Based on artificial intelligence, Google Assistant can engage in two way conversations, unlike the company's previous virtual assistant, Google Now.
+Google Assistant debuted in May 2016 as part of Google's messaging app Allo, and its voice-activated speaker Google Home. After a period of exclusivity on the Pixel 
+and Pixel XL smartphones, it was deployed on other Android devices starting in February 2017, including third-party smartphones and Android Wear (now Wear OS), and 
+was released as a standalone app on the iOS operating system in May 2017. 
+Alongside the announcement of a software development kit in April 2017, Assistant has been further extended to support a large variety of devices, including cars 
+and third-party smart home appliances. The functionality of the Assistant can also be enhanced by third-party developers.
+Users primarily interact with the Google Assistant through natural voice, though keyboard input is also supported. Assistant is able to answer questions, schedule 
+events and alarms, adjust hardware settings on the user's device, show information from the user's Google account, play games, and more. Google has also announced 
+that Assistant will be able to identify objects and gather visual information through the device's camera, and support purchasing products and sending money.
+At CES 2018, the first Assistant-powered smart displays (smart speakers with video screens) were announced, with the first one being released in July 2018.
+In 2020, Google Assistant is already available on more than 1 billion devices. Google Assistant is available in more than 90 countries and in over 30 languages,
+and is used by more than 500 million users monthly.

@@ -1,0 +1,9 @@
+The term "software engineering" appeared in a list of services offered by companies in the June 1965 issue of computers and automation and was used more formally in
+the August 1966 issue of Communications of the ACM " by the ACM President, the first conference on software engineering.
+Margaret Hamilton described the discipline "software engineering" during the Apollo missions to give what they were doing legitimacy.
+At the time there was perceived to be a "software crisis". The 40th International Conference on Software Engineering celebrates 50 years of "Software Engineering"
+with the Plenary Sessions' keynotes of Frederick Brooks and Margaret Hamilton.
+In 1984, the Software Engineering Institute was established as a federally funded research and development center headquartered on the campus of Carnegie Mellon
+University in Pittsburgh, Pennsylvania, United States. Watts Humphrey founded the SEI Software Process Program, aimed at understanding and managing the software
+engineering process. The Process Maturity Levels introduced would become the Capability Maturity Model Integration for Development, which has defined how the US
+Government evaluates the abilities of a software development team.

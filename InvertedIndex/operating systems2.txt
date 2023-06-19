@@ -1,0 +1,8 @@
+They are very compact and extremely efficient by design and are able to operate with a limited amount of resources. Windows is example of embedded operating systems. 
+A real-time operating system is an operating system that guarantees to process events or data by a specific moment in time. A real-time operating system may be 
+single- or multi-tasking, but when multitasking, it uses specialized scheduling algorithms so that a deterministic nature of behavior is achieved. 
+Such an event-driven system switches between tasks based on their priorities or external events, whereas time-sharing operating systems switch tasks based on clock 
+interrupts.
+A library operating system is one in which the services that a typical operating system provides, such as networking, are provided in the form of libraries and 
+composed with the application and configuration code to construct a unikernel: a specialized, single address space, machine image that can be deployed to cloud or
+embedded environments.

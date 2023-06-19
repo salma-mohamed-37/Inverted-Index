@@ -1,0 +1,13 @@
+An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.
+Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass 
+storage, printing, and other resources.
+For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, 
+although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it.
+Operating systems are found on many devices that contain a computer from cellular phones and video game consoles to web servers and supercomputers. 
+There are many types of operating systems.
+Single-user operating systems have no facilities to distinguish users but may allow multiple programs to run in tandem. A multi-user operating system extends 
+the basic concept of multi-tasking with facilities that identify processes and resources, such as disk space, belonging to multiple users, and the system permits 
+multiple users to interact with the system at the same time.  
+A distributed operating system manages a group of distinct, networked computers and makes them appear to be a single computer, as all computations are distributed 
+(divided among the constituent computers).
+Embedded operating systems are designed to be used in embedded computer systems. They are designed to operate on small machines with less autonomy. 
