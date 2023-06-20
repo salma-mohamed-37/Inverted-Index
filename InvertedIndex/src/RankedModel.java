@@ -18,6 +18,14 @@ public class RankedModel implements RetrievalModel
 	{
 		query = query.toLowerCase();
 		List<String> queryTerms = Arrays.asList(query.split("\\s+"));
+		for (String t : queryTerms)
+		{
+			if(!(index.containsKey(t)))
+			{
+				System.out.println("There is at least one term in the query is not in the index");
+				return;
+			}
+		}
 		HashMap<String, Double> queryIndex = parseQuery(query);
 		HashMap<String, Double[]> documentsIndex = calculateTfIdf(queryTerms);
 		List<Entry<Integer, Double>> cosine = calculateCosineSimilarity (documentsIndex, queryIndex);
