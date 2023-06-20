@@ -1,10 +1,4 @@
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-
-
+import java.util.*;
 
 public class BooleanModel implements RetrievalModel
 {
@@ -21,6 +15,14 @@ public class BooleanModel implements RetrievalModel
 	public void retrieveDocuments(String query)
 	{
 		List<String> queryTerms = Arrays.asList(query.split("\\s+"));
+		for (String t : queryTerms)
+		{
+			if(!(index.containsKey(t)))
+			{
+				System.out.println("There is at least one term in the query is not in the index");
+				return;
+			}
+		}
 		Set <Integer> docs = searchInIndex(queryTerms);
 		showResults(docs);
 	}

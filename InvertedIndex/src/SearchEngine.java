@@ -5,7 +5,7 @@ public class SearchEngine {
 
 	public static void main(String[] args) throws IOException
 	{
-		System.out.println("Welcome to search engine");
+		System.out.println("Welcome to Search Engine");
 		Collection c = new Collection();
 		InvertedIndex in = new InvertedIndex();
 		in.buildIndex(c.documents);
@@ -31,18 +31,23 @@ public class SearchEngine {
 					case 1:
 					{
 						rm = new BooleanModel(in.index , c.documents);
+						System.out.println();
 						rm.retrieveDocuments(query);
+						System.out.println();
 						break;
 					}
 					case 2:
 					{
 						rm = new RankedModel(in.index , c.documents);
+						System.out.println();
 						rm.retrieveDocuments(query);
+						System.out.println();
 						break;
 					}
 				}
 			}while (modelNum != 0);
 			
+			System.out.println();
 			System.out.print("Do you want to enter another query enter 1 for yes , 0 for no : ");
 			anotherQuery = input.nextInt();		
 			input.nextLine(); // consume the newline character
